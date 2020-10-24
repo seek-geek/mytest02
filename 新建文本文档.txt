@@ -1,0 +1,4 @@
+git remote add origin git@github.com:seek-geek/mytest.git
+git push -u origin master
+
+git remote rm origin
